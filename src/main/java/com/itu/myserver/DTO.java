@@ -29,7 +29,7 @@ public class DTO {
 		String dbClass = "com.mysql.jdbc.Driver";
 		String query = "Select * from student";
 		String username = "root";
-		String password = "gqq";
+		String password = "355itu11";
 		try {
 
 			Class.forName(dbClass);
